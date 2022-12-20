@@ -13,7 +13,4 @@ I'm Agnelo Neto, Front-end Developer from Porto-Portugal
 
 • 📫 How to reach me: LinkedIn 
 
-## Meu LinkedIn - [![ Linkedin Badge ](https://img.shields.io/badge/-FelipeVicente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/ in/felipe-gomes-vicente/)](https://www.linkedin.com/in/felipe-gomes-vicente/)
-
-
 • 💻 All my projects are available on GitHub https://github.com/agnelofneto
