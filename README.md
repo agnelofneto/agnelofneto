@@ -1,12 +1,15 @@
-## Oiii sou o Agnelo Neto
-<div align="center">
-  <a href="https://github.com/agnelofneto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agnelofneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnelofneto&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="rigth" alt="Agnelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
-  <img align="rigth" alt="Agnelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
-  <img align="rigth" alt="Agnelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> carregando ...<br>
-  <img align="rigth" alt="Agnelo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> carregando ...<br>
-</div>
+I'm Agnelo Neto, Front-end Developer from Porto-Portugal
+
+
+My current tools
+💻 My Portfolio Portfolio
+🌎 Front-end developer with ReactJs, HTML, CSS and Javascript
+🧰 Code version control: Github
+🎨 Layout Design: Figma
+🛠️ Tools: Vscode
+
+
+• 💬 Ask about I'm Agnelo Neto, graduated in Civil Engineering from the Federal University of Amazonas. I was always interested in technology, I was fascinated to see programming, I started to dedicate myself and with time I discovered passion at first sight.
+
+• 📫 How to reach me: LinkedIn -
+• 💻 All my projects are available on GitHub
