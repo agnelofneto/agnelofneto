@@ -22,6 +22,7 @@
 
  • 📫 How to reach me: LinkedIn https://www.linkedin.com/in/agneloneto/
 
+ 
  • 💻 All my projects are available on https://agneloneto.netlify.app/
  
 </div>
@@ -29,6 +30,7 @@
 
 
 
+  
 
 
 
